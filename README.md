@@ -14,13 +14,24 @@ My learning roadmap include:
 ---
 I will consistently build projects, improve my skills, and document my progress.
 ---
-##day 2 completed
+## Day 2 completed:
 
 Topic covered:
 
--data formatting
--Currency formating
--Date formating
--freeze panes
--Bussiness thinking Exercise
-<br>
+- data formatting
+- Currency formating
+- Date formating
+- freeze panes
+- Bussiness thinking Exercise
+  
+---
+## Day 3 Completed:
+---
+
+Topic coveres:
+- Cell by cell formula and wide range formula
+- basic formulas with real world examples(sum, max, min, percentage,average, count, counta)
+- for subtraction, multiplication and division only cell by cell formula available
+-  working with ministatic bar
+-  data filter and sort
+-  fill handle and autofill
