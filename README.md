@@ -10,6 +10,7 @@ DataEngineering
 Azure
 Artificial intelligence
 I will consistently build projects, improve my skills, and document my progress.
+<br>
 day 2 completed
 Topic covered
 -data formatting
@@ -17,4 +18,4 @@ Topic covered
 -Date formating
 -freeze panes
 -Bussiness thinking Exercise
--
+<br>
